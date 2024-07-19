@@ -49,24 +49,24 @@ List the main goals and objectives of the project. Examples:
 - `pickup_longitude`: Longitude of the pickup location.
 - `pickup_latitude`: Latitude of the pickup location.
 - `RatecodeID`: The final rate code in effect at the end of the trip.
-  -- 1 = Standard rate
-  -- 2 = JFK
-  -- 3 = Newark
-  -- 4 = Nassau or Westchester
-  -- 5 = Negotiated fare
-  -- 6 = Group ride
+  * 1 = Standard rate
+  * 2 = JFK
+  * 3 = Newark
+  * 4 = Nassau or Westchester
+  * 5 = Negotiated fare
+  * 6 = Group ride
 - `store_and_fwd_flag`: This flag indicates whether the trip record was held in vehicle memory before sending to the vendor, aka “store and forward,” because the vehicle did not have a connection to the server.
-  -- Y = store and forward trip
-  -- N = not a store and forward trip
+  * Y = store and forward trip
+  * N = not a store and forward trip
 - `dropoff_longitude`: Longitude of the drop off location.
 - `dropoff_latitude`: Latitude of the drop off location.
 - `payment_type`: A numeric code signifying how the passenger paid for the trip.
-  -- 1 = Credit card
-  -- 2 = Cash
-  -- 3 = No charge
-  -- 4 = Dispute
-  -- 5 = Unknown
-  -- 6 = Voided trip
+  * 1 = Credit card
+  * 2 = Cash
+  * 3 = No charge
+  * 4 = Dispute
+  * 5 = Unknown
+  * 6 = Voided trip
 - `fare_amount`: The time-and-distance fare calculated by the meter.
 - `extra`: Miscellaneous extras and surcharges. Currently, this only includes the $0.50 and $1 rush hour and overnight charges.
 - `mta_tax`: $0.50 MTA tax that is automatically triggered based on the metered rate in use.
