@@ -77,7 +77,7 @@ List the main goals and objectives of the project. Examples:
 
 ## Data Preprocessing
 ### Feature Engineering
-- Split the pickup/drop off dateTime columns, into date and time
-- 
+- Converted pickup and drop off dateTime front String to dateTime type
+- Added a duration column using the difference between pickup and dropoff time
 
 
