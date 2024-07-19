@@ -80,4 +80,14 @@ List the main goals and objectives of the project. Examples:
 - Converted pickup and drop off dateTime front String to dateTime type
 - Added a duration column using the difference between pickup and dropoff time
 
+## Exploratory Data Analysis (EDA)
+### Univariate Analysis
+Examined:
+- Distribution of ride times.
+- Distribution of pickup locations.
+
+### Bivariate Analysis
+Explore relationships between:
+- Correlation between time of day and ride frequency.
+- Heatmap of pickup locations.
 
