@@ -16,7 +16,7 @@
 ## Introduction
 In recent years, ride-sharing services have revolutionised urban transportation by providing a convenient and flexible alternative to traditional taxis and public transit. Uber, in particular, has grown exponentially, offering millions of rides daily across various cities worldwide. Understanding the patterns and dynamics of rides is crucial for several reasons, including improving service efficiency, optimising pricing strategies, and enhancing user experience.
 
-This project aims to analyze the ride share dataset to uncover valuable insights into ride patterns, demand fluctuations, and key factors influencing ride behavior. By exploring this dataset, we can answer questions such as:
+This project aims to analyse the ride share dataset to uncover valuable insights into ride patterns, demand fluctuations, and key factors influencing ride behavior. By exploring this dataset, we can answer questions such as:
 
 - What are the peak hours for Uber rides?
 - Which locations have the highest demand for Uber services?
