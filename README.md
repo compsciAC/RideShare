@@ -6,7 +6,7 @@
 3. [Dataset Description](#dataset-description)
 4. [Data Preprocessing](#data-preprocessing)
 5. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-6. [Data Visualization](#data-visualization)
+6. [Data Visualisation](#data-visualisation)
 7. [Modeling](#modeling)
 8. [Results](#results)
 9. [Conclusions](#conclusions)
@@ -25,10 +25,9 @@ This project aims to analyse the ride share dataset to uncover valuable insights
 
 Through comprehensive data preprocessing, exploratory data analysis (EDA), and advanced modeling techniques, this project will provide a detailed understanding of the ride share ecosystem. The findings from this analysis can help Uber and similar ride-sharing companies optimise their operations and better serve their customers.
 
-The dataset used in this project includes information on rides such as date and time, pickup locations, and the affiliated TLC base company codes. By leveraging this data, we will conduct a thorough analysis and develop predictive models to forecast ride demand and identify key trends.
+The dataset used in this project includes information on rides such as date and time, pickup locations, and the affiliated TLC base company codes. By leveraging this data, I will conduct a thorough analysis and develop predictive models to forecast ride demand and identify key trends.
 
 ## Objectives
-List the main goals and objectives of the project. Examples:
 - Analyse the patterns in ride share data.
 - Identify peak hours of operation.
 - Determine the most popular pickup and drop-off locations.
